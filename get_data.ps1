@@ -10,6 +10,9 @@ $sources = @(
     @{ Name = 'GonzaloA - fake_news'; Url = 'https://huggingface.co/datasets/GonzaloA/fake_news/resolve/main/evaluation.csv'; FileName = 'evaluation.csv' },
     @{ Name = 'GonzaloA - fake_news'; Url = 'https://huggingface.co/datasets/GonzaloA/fake_news/resolve/main/test.csv'; FileName = 'test.csv' },
     @{ Name = 'GonzaloA - fake_news'; Url = 'https://huggingface.co/datasets/GonzaloA/fake_news/resolve/main/train.csv'; FileName = 'train.csv' },
+	@{ Name = 'GonzaloA - fake_news'; Url = 'https://drive.google.com/uc?export=download&id=1_2ZoHrLLs67OpMwsVOlML2fMHBQ71k4u'; FileName = 'evaluation_without_reuters.csv' },
+	@{ Name = 'GonzaloA - fake_news'; Url = 'https://drive.google.com/uc?export=download&id=1Zx69Wpu3GcMKGq73jVCLsL2-zXUTZcsy'; FileName = 'test_without_reuters.csv' },
+	@{ Name = 'GonzaloA - fake_news'; Url = 'https://drive.google.com/uc?export=download&id=1l2lF66xL_6PDkmPcbchColeEDB8WxNm2'; FileName = 'train_without_reuters.csv' },
     @{ Name = 'ErfanMoosaviMonazzah - fake-news-detection-dataset-English'; Url = 'https://huggingface.co/datasets/ErfanMoosaviMonazzah/fake-news-detection-dataset-English/resolve/main/validation.tsv'; FileName = 'validation.tsv' },
     @{ Name = 'ErfanMoosaviMonazzah - fake-news-detection-dataset-English'; Url = 'https://huggingface.co/datasets/ErfanMoosaviMonazzah/fake-news-detection-dataset-English/resolve/main/test.tsv'; FileName = 'test.tsv' },
     @{ Name = 'ErfanMoosaviMonazzah - fake-news-detection-dataset-English'; Url = 'https://huggingface.co/datasets/ErfanMoosaviMonazzah/fake-news-detection-dataset-English/resolve/main/train.tsv'; FileName = 'train.tsv' }
