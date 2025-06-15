@@ -176,3 +176,10 @@ cython_debug/
 /src/data
 
 src/scripts/scraping/*.csv
+src/research/Max/models/Saurabh Shahane-DistilBert-simple/vocab.txt
+src/research/Max/models/Saurabh Shahane-DistilBert-simple/tokenizer_config.json
+src/research/Max/models/Saurabh Shahane-DistilBert-simple/tokenizer.json
+src/research/Max/models/Saurabh Shahane-DistilBert-simple/special_tokens_map.json
+src/research/Max/models/Saurabh Shahane-DistilBert-simple/model.safetensors
+src/research/Max/models/Saurabh Shahane-DistilBert-simple/config.json
+src/research/Max/sgd_news_classifier.pkl
